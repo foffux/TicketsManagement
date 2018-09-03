@@ -1,5 +1,5 @@
 ,,,,,Branch SW attivi XQ,,,,,,
-,,Lonati/Trunk,Lonati/daTrunk_57398_GOAL_release,Lonati/daTrunk_57198_DOPPIO_release,Lonati/daTrunk_56897_SG_puntaChiusa,Lonati/daTrunk_51131_DONNA_release,Lonati/daTrunk_36325_GOAL_release_fotocamera,daFotocamera_59718_NautilusDev,Santoni/Trunk,Santoni/daGfCan_52516_Nautilus_MeCmor,Santoni/daTrunk_47696_top2v_mantenimento
+,,Lonati/Trunk,Lonati/daTrunk_57398_GOAL_release,Lonati/daTrunk_57198_DOPPIO_release,Lonati/daTrunk_56897_SG_puntaChiusa,Lonati/daTrunk_51131_DONNA_release,Lonati/daTrunk_36325_GOAL_release_fotocamera,daTrunk_36325_GOAL_release_fotocamera_socket,Santoni/Trunk,Santoni/daGfCan_52516_Nautilus_MeCmor,Santoni/daTrunk_47696_top2v_mantenimento
 Ticket,Nautilus,,,,,,,,,,
 ,,,,,,,,,,,
 51,x,57319,incluso,incluso,57322,57325,57314,,57326,57330,57331
@@ -18,5 +18,6 @@ Ticket,Nautilus,,,,,,,,,,
 193,x,59910,59915,59920,59927,xxx,59234,,,,
 198,x,59911,59916,59921,59928,59932,59298,,,,
 199,x,59912,59917,59922,59929,59933,59302,,,,
-214,x,,,,,,,59871 59879,,,
-206,x,,,,,,,59890,,,
+214,x,,,,,,,60039 60041,,,
+206,x,,,,,,,60043,,,
+223,x,,,,,,,60099,,,
